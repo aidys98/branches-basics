@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-  cout<<"Trpo unifeef";
+  cout<<"Trpo laba4";
   return 0;
 }
